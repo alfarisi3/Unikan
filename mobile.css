@@ -1,0 +1,273 @@
+@media (max-width: 992px) {
+    /* Navbar */
+.navbar .container {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.navbar-brand img {
+    width: 120px;
+}
+
+.navbar-nav {
+    margin-left: 50%;
+    font-size: medium;
+    text-align: center;
+}
+
+.navbar-nav a {
+    margin-left: 30px;
+    font-weight: 500;
+}
+
+.navbar-nav .btn {
+    background-color: #13EC91;
+    color: white;
+    text-align: center;
+    width: 120px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+/* Navbar */
+
+/* footer */
+footer {
+    margin-top: 100px;
+    background-color: #0E2734;
+    height: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+/* footer */
+
+/* Hero */
+.deskripsi-hero .hero {
+    margin-top: 60px;
+    margin-left: 10px;
+}
+
+.deskripsi-hero .hero p {
+    width: 70%;
+}
+
+.deskripsi-hero img {
+    width: 70%;
+    margin-left: 100px;
+}
+
+.deskripsi-hero .btn {
+    width: 150px;
+    background-color: #13EC91;
+    color: white;
+    border-radius: 5px;
+}
+
+/* Hero */
+
+/* kelas */
+.deskripsi-kelas {
+    margin-top: 70px;
+}
+
+.deskripsi-kelas .card {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.deskripsi-kelas .card-title {
+    font-size: medium;
+}
+
+.deskripsi-kelas .card-text {
+    font-size: small;
+}
+
+.deskripsi-kelas .card .btn {
+    width: 100%;
+    background-color: #13EC91;
+    color: white;
+}
+
+/* kelas */
+
+/* Rewiew */
+.deskripsi-review {
+    margin-top: 70px;
+}
+
+.deskripsi-review .card {
+    margin-top: 10px;
+}
+.deskripsi-review .card img {
+    width: 150px;
+}
+.section-rie img {
+    margin-left: 200px;
+}
+
+.deskripsi-review .card-title {
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.deskripsi-review .card-text {
+    width: 90%;
+}
+
+/* Rewiew */
+
+/* promo */
+.deskripsi-promo {
+    margin-top: 70px;
+}
+
+.deskripsi-promo img {
+    width: 80%;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+/* promo */
+
+/* partner */
+.deskripsi-partner {
+    margin-top: 70px;
+}
+
+.deskripsi-partner img {
+    width: 50%;
+    margin-top: 40px;
+    margin-left: 90px;
+}
+
+/* partner */
+
+/* page-kelas */
+/* page-kelas */
+
+/* tentang */
+.deskripsi-tentang img {
+    width: 300px;
+    margin-top: 30px;
+
+}
+
+.deskripsi-tentang {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.deskripsi-tentang h5 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.deskripsi-tentang p {
+    text-align: justify;
+    width: 90%;
+    margin-left: 18px;
+}
+
+.section-akun img {
+    width: 50px;
+}
+
+.section-akun .wa h5 {
+    margin-left: 1%;
+    margin-top: 15px;
+}
+
+.section-akun .wa img {
+    margin-left: 1%;
+}
+
+.section-akun .ig h5 {
+    margin-top: 15px;
+}
+
+.section-akun .ig img {
+    margin-left: 1%;
+}
+
+.section-akun .x h5 {
+    margin-right:0%;
+    margin-top: 15px;
+}
+
+.section-akun .x img {
+    margin-right: 0%;
+}
+
+/* tentang */
+
+/* daftar */
+.deskripsi-daftar h1 {
+    text-align: center;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.deskripsi-daftar p {
+    text-align: center;
+}
+.deskripsi-daftar form {
+    margin-left: 0%;
+    width: 440px;
+}
+.deskripsi-daftar label {
+    margin-bottom: 15px;
+    margin-top: 25px;
+    font-weight: 500;
+}
+.deskripsi-daftar .btn {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-left: 30%;
+    width: 150px;
+    background-color: #13EC91;
+    color: white;
+    border-radius: 5px;
+}
+
+/* daftar */
+
+/* masuk */
+.deskripsi-masuk h1 {
+    text-align: center;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.deskripsi-masuk p {
+    text-align: center;
+    margin-bottom: 35px;
+}
+.deskripsi-masuk form {
+    margin-left: 0%;
+    width: 440px;
+}
+.deskripsi-masuk label {
+    margin-bottom: 15px;
+    margin-top: 25px;
+    font-weight: 500;
+}
+.deskripsi-masuk input {
+    margin-bottom: 10px;
+}
+.deskripsi-masuk .lupapw {
+    margin-left: 70%;
+}
+.deskripsi-masuk .btn {
+    margin-top: 50px;
+    margin-bottom: 70px;
+    margin-left: 31%;
+    width: 150px;
+    background-color: #13EC91;
+    color: white;
+    border-radius: 5px;
+}
+
+/* masuk */
+}
